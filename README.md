@@ -18,6 +18,8 @@ The primary goal of this project is to uncover patterns and insights that can in
 
 To achieve the objectives, I employ a structured approach that includes data preprocessing, exploratory data analysis (EDA), hypothesis testing, and statistical analysis. Python serves as the primary programming language, with libraries such as Pandas, NumPy, and Matplotlib for data manipulation, visualization, and analysis.
 
+---
+
 ## Skills and Technologies:
 
 This project showcases proficiency in:
@@ -27,6 +29,8 @@ Python programming for data manipulation and analysis.
 Exploratory data analysis (EDA) to uncover patterns and trends.
 Statistical analysis methods, including hypothesis testing.
 Visualization tools such as Matplotlib for creating informative charts and graphs.
+
+---
 
 ## Conclusion:
 
