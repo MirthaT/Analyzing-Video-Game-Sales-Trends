@@ -1,5 +1,4 @@
-## **2️⃣ Analyzing Video Game Sales Trends**
-```markdown
+
 # 🎮 Analyzing Video Game Sales Trends
 
 ## 📌 Project Overview
