@@ -1,37 +1,46 @@
-# Analyzing Video Game Sales Trends
+## **2️⃣ Analyzing Video Game Sales Trends**
+```markdown
+# 🎮 Analyzing Video Game Sales Trends
 
----
+## 📌 Project Overview
+This project explores **global video game sales data** to identify the most profitable platforms, genres, and release trends across different regions (NA, EU, JP).  
+The analysis also examines the influence of **ESRB ratings** on sales performance.
 
-## Introduction
+## 🗂 Dataset
+The dataset contains:
+- **Name** – Game title.
+- **Platform** – Console/platform released.
+- **Year** – Release year.
+- **Genre** – Game genre.
+- **Publisher** – Game publisher.
+- **Sales** – Regional and global sales figures (in millions).
+- **ESRB Rating** – Entertainment Software Rating Board classification.
 
-Welcome to my project on analyzing video game sales trends for the online store Ice. This project dives into a comprehensive dataset spanning back to 2016, aimed at understanding the factors influencing the success of video games in the market.
+## 🛠 Tools & Technologies
+- **Python** (Pandas, Matplotlib, Seaborn)
+- **Jupyter Notebook**
+- **Data Cleaning & Exploratory Data Analysis (EDA)**
 
----
+## 🔍 Analysis & Key Questions
+- What are the **top-selling platforms and genres** per region?
+- How have **sales trends changed over time**?
+- Do **ESRB ratings** impact sales performance?
+- Which publishers dominate the global market?
 
-## Objectives
+## 📊 Key Insights
+- Action and Sports are consistently **top-performing genres**.
+- ESRB "E" (Everyone) and "M" (Mature) ratings dominate sales globally.
+- Platform popularity varies significantly by region (e.g., Nintendo in Japan).
 
-The primary goal of this project is to uncover patterns and insights that can inform marketing strategies and identify potentially successful game projects. By leveraging analytical techniques and statistical methods, we aim to extract actionable insights from the dataset.
+## 📎 How to Run the Project
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/MirthaT/Analyzing-Video-Game-Sales-Trends.git
+2. Open the .ipynb file in Jupyter Notebook.
 
----
+3. Run all cells to reproduce the analysis and visualizations.
 
-## Approach:
+📬 Contact
+For questions or collaborations, reach out on LinkedIn or email mtorresca@gmail.com
 
-To achieve the objectives, I employ a structured approach that includes data preprocessing, exploratory data analysis (EDA), hypothesis testing, and statistical analysis. Python serves as the primary programming language, with libraries such as Pandas, NumPy, and Matplotlib for data manipulation, visualization, and analysis.
 
----
-
-## Skills and Technologies:
-
-This project showcases proficiency in:
-
-Data preprocessing techniques for cleaning and transforming raw data.
-Python programming for data manipulation and analysis.
-Exploratory data analysis (EDA) to uncover patterns and trends.
-Statistical analysis methods, including hypothesis testing.
-Visualization tools such as Matplotlib for creating informative charts and graphs.
-
----
-
-## Conclusion:
-
-By applying a systematic approach to analyzing video game sales trends, this project demonstrates the ability to derive actionable insights from complex datasets. Through the utilization of various analytical techniques and programming skills, I aim to provide valuable insights that can inform decision-making processes in the gaming industry.
